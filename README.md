@@ -4,8 +4,8 @@ To view Bible verses and generate images for presentation.
 
 ## Features
 [ ] Verse input  
-[ ] Display inputed range in two columns
-[ ] Ability to download displayed verses as png image 
+[ ] Display inputed range in two columns  
+[ ] Ability to download displayed verses as png image  
 [ ] Render preview pane when there are more than 1 slide
 
 ## Usage
